@@ -5,3 +5,5 @@
 [Netlify版](https://zuqiuxiaojiang.netlify.app/)
 [Vercel版](https://zuqiuxiaojiang.vercel.app/)
 [MaoZi版](https://zuqiuxiaojiang-tt16l0j2.maozi.io/)
+
+[旧版（暂不更新）](https://sdic.pages.dev/)
