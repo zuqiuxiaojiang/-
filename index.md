@@ -16,6 +16,14 @@
 <span class="inline-title">天使之翼</span>
 </h1>
 
+<h4>
+<p>
+	<a href="https://zuqiuxiaojiang.github.io">首页</a> |
+	<a href="https://zuqiuxiaojiang.github.io/-">…我…</a> |
+	<a href="https://zuqiuxiaojiang.github.io/_">工作</a>
+</p>
+</h4>
+
 ## …我…:
 ###### *欲查看，请在地址栏末尾输入以下文件名*。
 
