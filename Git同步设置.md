@@ -14,9 +14,9 @@ git config --global user.name "zuqiuxiaojiang"
 git config --global user.email "553777402@qq.com"
 
 ### 5. 验证配置
-git config --list                    # 列出所有配置
-git config user.name                 # 验证用户名
-git config user.email                # 验证邮箱
+echo "用户名：" && git config --global user.name
+echo "邮箱：" && git config --global user.email
+###### 需修改："你的英文用户名" 和 "你的Gitee注册邮箱"（保持引号）
 
 # 第二步：克隆仓库
 
@@ -27,7 +27,7 @@ rm -rf note
 git clone https://用户名:Token@gitee.com/用户名/note.git
 
 ### 示例（仅供格式参考，请勿直接复制）：
-git clone https://zuqiuxiaojiang:私人令牌@gitee.com/zuqiuxiaojiang/gz.git
+git clone https://zuqiuxiaojiang:私人令牌@gitee.com/zuqiuxiaojiang/note.git
 
 ###### 需修改：将两处 用户名 替换为 Gitee 英文用户名，将 Token 替换为 32 位私人令牌
 
