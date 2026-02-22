@@ -1,4 +1,7 @@
 
+<!-- 引入外部CSS文件 -->
+<link rel="stylesheet" href="styles.css">
+
 <h1>
 <img src="./翼.png" alt="示例图片" class="inline-image" />
 <span class="inline-title">天使之翼</span>
