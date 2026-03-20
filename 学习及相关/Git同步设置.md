@@ -1,5 +1,8 @@
 # 第一步：Termux 环境配置
 
+### 0.Termux 换国内源（安装前执行，加速下载。选择清华/中科大镜像）
+termux-change-repo
+
 ### 1. 更新源并安装 Git（如遇询问按 Y）
 pkg update -y && pkg upgrade -y
 pkg install git -y
