@@ -7,7 +7,7 @@
 <span class="inline-title">天使之翼</span>
 </h1>
 
-## 个人:
+## 个人人:
 
 <h3>
 <p>
