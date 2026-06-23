@@ -6,3 +6,5 @@
 ## 未分类:
 
 [ZeroTermux编辑菜单](ZeroTermux编辑菜单)
+
+[计时](计时.md)
